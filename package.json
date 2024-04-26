@@ -1,6 +1,7 @@
 {
   "name": "tracker",
   "private": true,
+  "homepage": "https://enmanuelrondon1.github.io/some-apps",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
